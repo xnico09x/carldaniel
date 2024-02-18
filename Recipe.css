@@ -1,0 +1,145 @@
+
+header h1 {
+    border-width: 7px;
+    border-style: double;
+    border-color: rgb(156, 28, 28);
+    border-radius: auto;
+    background-color: rgb(65, 100, 114);
+}
+.container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+ul {
+    margin: 0%;
+    padding: 0%;
+}
+.button {
+    height: 20px;
+    background: #ce1f1f;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+}
+
+.dark{
+    padding-top:15px;
+    background:#35424a;
+    color:#ffffff;
+    margin-top:10px;
+    margin-bottom:10px;
+  }
+  .cake{
+    color: #ffffff;
+  }
+
+  header {
+    background:#ffffff;
+    color:#f34c4c;
+    padding-top:0%;
+    margin-top: 0%;
+    min-height:20px;
+    border-bottom:#e8491d 3px solid;
+  }
+  
+  header a{
+    color:#ffffff;
+    text-decoration:dashed;
+    text-transform: uppercase;
+    font-size:16px;
+  }
+  
+  header li{
+    float:left;
+    display:inline;
+    padding: 0 20px 0 20px;
+  }
+  
+  header #branding{
+    float:left;
+  }
+  
+  header nav{
+    float:right;
+    margin-top:10px;
+  }
+  
+  header .highlight, header .current a{
+    color:#cc4827;
+    font-weight:bold;
+  }
+  
+  header a:hover{
+    color:#cccccc;
+    font-weight:bold;
+  }
+  section {
+    border-width: 7px;
+    border-style: double;
+    border-color: rgb(185, 27, 27);
+    border-radius: auto;
+    border-width: auto;
+    min-height: auto;
+    padding: auto;
+    text-align: center;
+    text-decoration-color: #c02b2b;
+    }
+
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    div {
+        font-size: 130px;
+        font-style: oblique;
+        font-variant-position: absolute;
+
+
+    }
+
+     .h2 {
+      -webkit-column-count: 0;
+      -moz-column-count: 0;
+      column-count: 0;
+      -webkit-column-gap: 26px;
+      -moz-column-gap: 26px;
+      column-gap: 26px;
+      -webkit-column-rule: 1px solid #1C6EA4;
+      -moz-column-rule: 1px solid #1C6EA4;
+      column-rule: 1px solid #1C6EA4;
+      font-size: 25px;
+      }
+
+      .p {
+        font-family: Georgia, serif;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: capitalize;
+        font-size: 15px;
+      }
+
+    footer {
+        border-width: 7px;
+        border-style: double;
+        border-color: rgb(177, 10, 18);
+        border-radius: auto;
+        border-width: auto;
+        min-height: auto;
+        position: relative;
+        background-color: #35424a;
+        padding: 25px;
+        text-align: center;
+        color: #ffffff;
+    }
+
+
